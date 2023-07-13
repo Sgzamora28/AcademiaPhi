@@ -1,0 +1,1503 @@
+Meses:APR,MAY,MAR,JUL,JUN,SEP,OCT,NOV,DEC
+Farmacias:Cruz Azul,Pharmacys,Botica Barcia,Fybeca,Sana Sana,Medicity,Farmacias Economicas,Farmacias Comunitarias,SuFarmacia,FarMed,Ecu-Vida,Genovesa,Santa Martha
+fecha,farmacia,valor_compra
+2022-OCT-10,Ecu-Vida,14.26   
+2022-JUN-3,Cruz Azul,16.33
+2022-OCT-5,Botica Barcia,7.83
+2022-APR-16,SuFarmacia,0.07
+2022-MAR-11,Ecu-Vida,18.13
+2022-SEP-22,SuFarmacia,26.01
+2022-JUN-20,Sana Sana,8.77
+2022-APR-2,Pharmacys,25.95
+2022-APR-5,SuFarmacia,8.18
+2022-MAR-28,Ecu-Vida,28.85
+2022-JUN-5,SuFarmacia,1.84
+2022-JUN-12,Santa Martha,0.62
+2022-DEC-21,FarMed,4.29
+2022-MAR-4,Farmacias Economicas,5.01
+2022-JUL-15,Pharmacys,14.37
+2022-JUL-7,Farmacias Economicas,4.48
+2022-JUL-30,Genovesa,24.99
+2022-JUL-20,Medicity,0.54
+2022-JUN-7,Ecu-Vida,8.01
+2022-JUN-13,Medicity,17.17
+2022-DEC-29,Botica Barcia,29.75
+2022-OCT-19,Farmacias Economicas,11.49
+2022-JUN-1,Pharmacys,21.37
+2022-MAY-24,Genovesa,1.19
+2022-NOV-8,SuFarmacia,18.42
+2022-DEC-19,Santa Martha,8.7
+2022-SEP-17,Santa Martha,11.24
+2022-APR-16,Santa Martha,4.71
+2022-SEP-13,Santa Martha,29.05
+2022-JUN-15,Botica Barcia,19.27
+2022-MAY-24,Genovesa,21.57
+2022-NOV-12,Farmacias Economicas,2.27
+2022-JUN-13,Ecu-Vida,19.78
+2022-JUN-16,Pharmacys,17.44
+2022-MAR-29,Cruz Azul,12.69
+2022-OCT-7,Cruz Azul,29.03
+2022-APR-26,SuFarmacia,14.4
+2022-JUL-4,Pharmacys,9.23
+2022-NOV-1,SuFarmacia,19.92
+2022-JUL-23,Genovesa,10.47
+2022-JUL-28,SuFarmacia,2.59
+2022-APR-29,FarMed,19.53
+2022-MAY-1,Ecu-Vida,24.78
+2022-OCT-7,Farmacias Comunitarias,26.99
+2022-OCT-26,Cruz Azul,9.69
+2022-APR-18,Fybeca,23.23
+2022-MAR-12,Genovesa,11.64
+2022-SEP-8,Botica Barcia,20.13
+2022-APR-30,Farmacias Comunitarias,14.61
+2022-DEC-21,Medicity,8.24
+2022-SEP-7,Santa Martha,12.14
+2022-SEP-23,Sana Sana,25.25
+2022-DEC-10,FarMed,29.68
+2022-MAR-8,Botica Barcia,27.05
+2022-MAR-17,Sana Sana,6.17
+2022-OCT-22,Cruz Azul,12.36
+2022-JUN-6,Santa Martha,21.56
+2022-APR-23,Farmacias Comunitarias,8.3
+2022-DEC-23,Ecu-Vida,28.65
+2022-APR-8,Botica Barcia,17.04
+2022-NOV-29,FarMed,2.53
+2022-JUN-21,Ecu-Vida,26.76
+2022-JUL-5,Santa Martha,19.76
+2022-APR-5,Fybeca,14.06
+2022-APR-4,Fybeca,18.68
+2022-MAY-25,Sana Sana,8.32
+2022-MAY-10,Farmacias Comunitarias,18.14
+2022-MAR-14,Genovesa,16.86
+2022-JUL-9,Genovesa,3.44
+2022-JUN-21,Pharmacys,23.95
+2022-APR-19,Pharmacys,7.13
+2022-JUN-14,Botica Barcia,19.3
+2022-JUL-3,Pharmacys,7.96
+2022-MAY-26,Pharmacys,14.3
+2022-JUN-20,Cruz Azul,17.1
+2022-SEP-16,Botica Barcia,14.99
+2022-OCT-19,Ecu-Vida,12.76
+2022-DEC-10,SuFarmacia,19.72
+2022-JUL-22,FarMed,2.58
+2022-JUN-8,Fybeca,29.2
+2022-JUN-17,FarMed,4.89
+2022-MAY-23,Cruz Azul,23.93
+2022-SEP-4,Botica Barcia,6.82
+2022-DEC-29,Farmacias Economicas,29.49
+2022-NOV-7,Fybeca,20.4
+2022-NOV-7,Botica Barcia,17.02
+2022-SEP-18,Ecu-Vida,16.64
+2022-MAR-12,Botica Barcia,12.84
+2022-JUN-23,SuFarmacia,9.95
+2022-OCT-1,Pharmacys,28.11
+2022-JUN-23,Santa Martha,8.99
+2022-JUL-29,FarMed,7.23
+2022-MAR-11,Ecu-Vida,3.29
+2022-DEC-24,Sana Sana,27.75
+2022-NOV-8,Santa Martha,5.15
+2022-JUL-15,Fybeca,0.37
+2022-MAR-20,FarMed,5.17
+2022-MAY-7,Botica Barcia,28.82
+2022-JUN-28,Cruz Azul,28.39
+2022-JUN-20,Fybeca,5.7
+2022-MAR-7,Farmacias Comunitarias,0.0
+2022-JUN-22,Ecu-Vida,20.3
+2022-MAY-18,SuFarmacia,25.33
+2022-OCT-16,Fybeca,18.9
+2022-JUN-22,Pharmacys,6.81
+2022-DEC-28,Cruz Azul,12.65
+2022-SEP-4,Fybeca,7.61
+2022-MAR-27,Genovesa,25.1
+2022-MAY-15,Santa Martha,5.88
+2022-SEP-21,Botica Barcia,2.33
+2022-JUL-5,SuFarmacia,22.6
+2022-JUN-17,Farmacias Economicas,13.84
+2022-MAR-6,FarMed,22.3
+2022-JUN-17,Botica Barcia,1.75
+2022-MAY-8,FarMed,15.31
+2022-JUL-26,Farmacias Economicas,9.73
+2022-NOV-19,Santa Martha,14.42
+2022-OCT-16,Sana Sana,9.89
+2022-DEC-1,SuFarmacia,20.67
+2022-MAY-30,SuFarmacia,29.0
+2022-SEP-21,Farmacias Comunitarias,5.98
+2022-MAR-28,SuFarmacia,8.22
+2022-JUL-9,Genovesa,25.05
+2022-APR-9,Genovesa,13.57
+2022-MAR-2,Farmacias Economicas,16.27
+2022-DEC-30,Farmacias Comunitarias,2.44
+2022-SEP-3,Sana Sana,24.58
+2022-DEC-1,Botica Barcia,11.76
+2022-OCT-5,Cruz Azul,4.9
+2022-MAR-24,Sana Sana,27.39
+2022-SEP-19,Pharmacys,7.46
+2022-JUL-1,Fybeca,9.21
+2022-DEC-15,Medicity,21.78
+2022-MAY-24,Ecu-Vida,25.58
+2022-APR-25,Fybeca,28.28
+2022-SEP-4,Santa Martha,5.5
+2022-NOV-19,Cruz Azul,24.49
+2022-OCT-14,SuFarmacia,15.2
+2022-SEP-29,Botica Barcia,11.5
+2022-MAR-19,Fybeca,8.26
+2022-JUL-3,FarMed,27.29
+2022-JUL-15,Botica Barcia,7.43
+2022-MAR-12,Farmacias Comunitarias,14.45
+2022-SEP-22,FarMed,25.86
+2022-OCT-17,SuFarmacia,6.99
+2022-APR-17,Genovesa,0.5
+2022-OCT-20,Sana Sana,23.72
+2022-SEP-30,Pharmacys,13.05
+2022-OCT-28,Sana Sana,27.63
+2022-JUL-25,Medicity,23.41
+2022-APR-20,Cruz Azul,25.04
+2022-MAR-19,Fybeca,11.22
+2022-APR-27,Cruz Azul,19.41
+2022-DEC-5,Sana Sana,23.53
+2022-NOV-25,Sana Sana,24.16
+2022-NOV-2,Medicity,16.6
+2022-JUL-5,Farmacias Comunitarias,15.49
+2022-OCT-13,Genovesa,27.83
+2022-SEP-17,Botica Barcia,0.58
+2022-NOV-13,Medicity,20.7
+2022-JUN-11,Fybeca,4.67
+2022-OCT-29,Farmacias Economicas,7.74
+2022-MAY-10,Farmacias Comunitarias,7.32
+2022-JUL-10,Farmacias Economicas,7.44
+2022-SEP-5,Fybeca,14.84
+2022-MAR-13,Santa Martha,9.52
+2022-JUL-14,Pharmacys,2.57
+2022-JUL-9,Farmacias Economicas,14.97
+2022-APR-25,Botica Barcia,1.63
+2022-JUN-22,SuFarmacia,17.35
+2022-DEC-29,FarMed,5.62
+2022-OCT-28,Farmacias Economicas,5.8
+2022-APR-3,Medicity,14.18
+2022-OCT-28,Farmacias Economicas,21.14
+2022-MAR-15,Cruz Azul,9.65
+2022-DEC-23,Pharmacys,18.17
+2022-SEP-24,Sana Sana,12.07
+2022-SEP-1,Santa Martha,1.53
+2022-SEP-6,Ecu-Vida,23.85
+2022-JUL-29,Ecu-Vida,17.19
+2022-MAR-1,Cruz Azul,27.05
+2022-JUN-14,Ecu-Vida,25.53
+2022-SEP-21,Fybeca,17.45
+2022-MAY-8,Genovesa,20.42
+2022-OCT-4,Farmacias Comunitarias,14.5
+2022-MAY-16,Botica Barcia,27.81
+2022-MAY-27,Genovesa,25.87
+2022-MAR-17,Santa Martha,26.55
+2022-MAY-1,Medicity,11.93
+2022-JUN-21,Sana Sana,4.27
+2022-DEC-2,Fybeca,19.55
+2022-MAR-22,Fybeca,21.7
+2022-APR-3,Fybeca,1.58
+2022-MAR-8,FarMed,13.9
+2022-DEC-27,FarMed,29.58
+2022-JUL-1,Cruz Azul,25.43
+2022-APR-14,Pharmacys,20.25
+2022-JUN-27,Farmacias Comunitarias,24.28
+2022-SEP-12,SuFarmacia,7.38
+2022-APR-17,Santa Martha,4.58
+2022-MAY-1,Santa Martha,5.84
+2022-MAY-12,Botica Barcia,17.93
+2022-OCT-1,Pharmacys,22.43
+2022-MAR-2,Genovesa,3.49
+2022-OCT-27,Ecu-Vida,29.29
+2022-JUN-14,Ecu-Vida,17.73
+2022-OCT-5,SuFarmacia,7.76
+2022-JUL-4,FarMed,26.31
+2022-MAR-25,Genovesa,4.66
+2022-JUN-5,Farmacias Economicas,1.82
+2022-NOV-12,Ecu-Vida,28.2
+2022-MAY-13,SuFarmacia,5.46
+2022-JUN-27,Genovesa,10.88
+2022-MAY-30,Pharmacys,11.35
+2022-NOV-13,Farmacias Economicas,0.25
+2022-JUL-22,Pharmacys,20.78
+2022-SEP-29,Medicity,17.3
+2022-NOV-17,Sana Sana,7.61
+2022-NOV-8,Genovesa,11.75
+2022-APR-27,Fybeca,18.91
+2022-JUL-22,Fybeca,19.62
+2022-MAY-18,FarMed,26.62
+2022-DEC-13,Cruz Azul,1.7
+2022-MAY-19,Sana Sana,2.17
+2022-NOV-1,Pharmacys,28.51
+2022-JUN-3,Botica Barcia,3.46
+2022-OCT-23,FarMed,2.78
+2022-APR-8,Farmacias Comunitarias,21.35
+2022-JUN-1,Botica Barcia,7.84
+2022-APR-18,Farmacias Economicas,1.92
+2022-SEP-30,SuFarmacia,1.78
+2022-JUN-20,Pharmacys,14.72
+2022-NOV-16,Pharmacys,28.96
+2022-APR-25,Santa Martha,14.11
+2022-APR-10,Sana Sana,16.81
+2022-DEC-27,Farmacias Comunitarias,5.06
+2022-OCT-10,FarMed,2.81
+2022-SEP-29,Botica Barcia,24.55
+2022-SEP-19,Pharmacys,24.23
+2022-MAR-25,Botica Barcia,24.93
+2022-OCT-2,Medicity,23.71
+2022-JUN-11,SuFarmacia,8.54
+2022-JUN-27,Botica Barcia,8.22
+2022-JUN-27,Sana Sana,29.41
+2022-MAY-21,Fybeca,16.4
+2022-MAR-27,FarMed,7.5
+2022-SEP-4,Farmacias Economicas,22.94
+2022-OCT-21,SuFarmacia,15.46
+2022-SEP-10,Genovesa,4.81
+2022-DEC-28,Farmacias Comunitarias,13.04
+2022-APR-20,Fybeca,28.85
+2022-NOV-3,SuFarmacia,11.74
+2022-APR-19,FarMed,16.89
+2022-NOV-6,SuFarmacia,6.53
+2022-JUN-4,SuFarmacia,29.31
+2022-MAR-8,Fybeca,27.89
+2022-DEC-7,Farmacias Economicas,11.68
+2022-MAY-2,SuFarmacia,12.96
+2022-MAY-17,SuFarmacia,17.58
+2022-JUL-12,FarMed,7.69
+2022-NOV-2,Botica Barcia,10.59
+2022-MAR-17,Botica Barcia,3.0
+2022-OCT-10,Pharmacys,22.22
+2022-NOV-22,SuFarmacia,15.34
+2022-MAR-26,Pharmacys,11.23
+2022-JUL-13,Farmacias Economicas,11.86
+2022-DEC-14,Farmacias Comunitarias,8.97
+2022-DEC-9,Fybeca,24.98
+2022-DEC-21,Genovesa,7.88
+2022-MAR-7,Fybeca,9.43
+2022-MAY-29,Cruz Azul,5.09
+2022-OCT-17,Farmacias Economicas,20.45
+2022-DEC-14,Fybeca,20.62
+2022-MAY-1,Genovesa,23.05
+2022-JUL-17,Farmacias Comunitarias,2.17
+2022-OCT-27,Farmacias Economicas,19.19
+2022-JUL-4,Genovesa,20.98
+2022-MAR-22,Genovesa,17.14
+2022-APR-5,Farmacias Economicas,21.53
+2022-JUL-8,SuFarmacia,9.48
+2022-MAR-17,Farmacias Comunitarias,4.95
+2022-OCT-22,SuFarmacia,10.55
+2022-NOV-12,Medicity,0.86
+2022-MAR-5,Genovesa,27.02
+2022-MAY-18,Genovesa,3.49
+2022-APR-29,Farmacias Economicas,24.87
+2022-SEP-2,Botica Barcia,1.89
+2022-SEP-2,Cruz Azul,21.53
+2022-JUN-25,Ecu-Vida,20.08
+2022-JUN-9,Farmacias Comunitarias,26.09
+2022-APR-11,Medicity,18.64
+2022-NOV-4,Santa Martha,14.32
+2022-APR-11,Santa Martha,27.64
+2022-MAR-4,FarMed,5.07
+2022-JUL-11,Genovesa,18.17
+2022-JUN-14,Medicity,25.9
+2022-SEP-13,FarMed,19.41
+2022-NOV-20,Farmacias Economicas,18.44
+2022-JUL-10,Medicity,8.13
+2022-JUL-26,Pharmacys,13.08
+2022-NOV-11,Ecu-Vida,9.39
+2022-DEC-25,Pharmacys,19.5
+2022-MAY-28,Cruz Azul,9.45
+2022-MAY-30,Pharmacys,2.5
+2022-JUL-1,Ecu-Vida,16.26
+2022-MAR-16,Sana Sana,7.92
+2022-DEC-10,Pharmacys,5.59
+2022-MAR-26,Fybeca,29.72
+2022-NOV-29,Genovesa,17.04
+2022-JUN-1,Cruz Azul,8.59
+2022-MAY-15,Farmacias Economicas,16.76
+2022-JUN-10,Genovesa,12.53
+2022-JUN-30,Santa Martha,7.4
+2022-OCT-8,Farmacias Comunitarias,28.67
+2022-MAR-16,Medicity,12.65
+2022-SEP-22,Fybeca,19.64
+2022-SEP-2,Cruz Azul,17.39
+2022-OCT-20,Ecu-Vida,22.17
+2022-APR-7,Santa Martha,28.47
+2022-JUN-6,Fybeca,27.64
+2022-MAY-28,Pharmacys,24.59
+2022-MAR-23,Santa Martha,4.89
+2022-MAY-24,Pharmacys,6.6
+2022-MAY-25,Fybeca,24.69
+2022-NOV-25,Farmacias Comunitarias,16.28
+2022-SEP-24,Pharmacys,25.41
+2022-NOV-8,Farmacias Economicas,4.66
+2022-DEC-19,Farmacias Economicas,1.8
+2022-SEP-1,Cruz Azul,25.29
+2022-MAY-12,SuFarmacia,15.17
+2022-MAY-20,Farmacias Economicas,26.37
+2022-DEC-23,Farmacias Comunitarias,28.52
+2022-JUL-21,Ecu-Vida,2.61
+2022-DEC-4,Genovesa,9.87
+2022-SEP-24,Pharmacys,27.64
+2022-DEC-10,Medicity,0.29
+2022-SEP-10,FarMed,10.82
+2022-DEC-15,Cruz Azul,9.2
+2022-NOV-18,Farmacias Comunitarias,12.81
+2022-DEC-5,Medicity,28.7
+2022-MAR-27,Ecu-Vida,25.35
+2022-MAR-19,Pharmacys,0.91
+2022-SEP-30,Fybeca,26.44
+2022-SEP-12,Fybeca,4.42
+2022-DEC-15,SuFarmacia,17.96
+2022-JUL-6,Cruz Azul,16.37
+2022-SEP-15,Pharmacys,18.94
+2022-SEP-26,Genovesa,12.32
+2022-JUN-5,Medicity,15.0
+2022-MAR-22,Fybeca,24.06
+2022-JUN-25,Pharmacys,11.1
+2022-SEP-23,Medicity,7.55
+2022-JUN-10,Genovesa,29.04
+2022-JUL-8,Ecu-Vida,26.4
+2022-JUN-6,Cruz Azul,2.97
+2022-APR-13,Farmacias Economicas,0.4
+2022-OCT-13,Medicity,12.72
+2022-MAY-2,Medicity,9.6
+2022-JUN-8,Cruz Azul,21.35
+2022-MAR-22,Medicity,7.39
+2022-DEC-8,FarMed,21.39
+2022-NOV-22,Sana Sana,12.86
+2022-SEP-21,Sana Sana,25.67
+2022-APR-1,Farmacias Economicas,9.43
+2022-OCT-17,Fybeca,3.16
+2022-OCT-27,Farmacias Economicas,17.41
+2022-DEC-2,FarMed,24.3
+2022-NOV-19,Ecu-Vida,25.84
+2022-JUL-11,Cruz Azul,26.88
+2022-JUL-14,Genovesa,3.06
+2022-APR-3,Genovesa,19.6
+2022-DEC-14,Botica Barcia,15.02
+2022-SEP-27,FarMed,6.59
+2022-OCT-24,Botica Barcia,1.47
+2022-SEP-29,Farmacias Comunitarias,15.97
+2022-DEC-18,Santa Martha,11.49
+2022-DEC-2,Genovesa,15.73
+2022-APR-1,Fybeca,14.69
+2022-OCT-8,SuFarmacia,24.1
+2022-DEC-27,Ecu-Vida,26.82
+2022-NOV-24,Santa Martha,29.32
+2022-APR-6,Farmacias Economicas,2.05
+2022-JUL-12,Pharmacys,23.96
+2022-JUL-17,Santa Martha,18.44
+2022-DEC-20,Genovesa,6.88
+2022-APR-17,Farmacias Comunitarias,6.5
+2022-APR-14,SuFarmacia,24.33
+2022-JUL-9,Pharmacys,19.04
+2022-DEC-20,Santa Martha,24.01
+2022-MAY-16,Botica Barcia,10.63
+2022-SEP-24,Fybeca,18.19
+2022-NOV-20,Farmacias Economicas,0.53
+2022-SEP-14,Farmacias Economicas,25.66
+2022-NOV-5,Pharmacys,23.08
+2022-SEP-22,Cruz Azul,12.15
+2022-MAR-7,SuFarmacia,19.69
+2022-DEC-10,Cruz Azul,10.08
+2022-DEC-25,Fybeca,6.45
+2022-DEC-1,Farmacias Comunitarias,18.63
+2022-SEP-16,FarMed,26.02
+2022-OCT-2,Farmacias Comunitarias,8.31
+2022-MAR-4,Medicity,29.92
+2022-NOV-19,FarMed,28.32
+2022-JUN-29,Ecu-Vida,28.59
+2022-DEC-3,Genovesa,19.12
+2022-SEP-20,SuFarmacia,12.66
+2022-NOV-22,Farmacias Economicas,13.3
+2022-SEP-17,Cruz Azul,29.2
+2022-OCT-30,Genovesa,18.42
+2022-MAR-28,Botica Barcia,28.06
+2022-JUL-23,Sana Sana,7.59
+2022-NOV-17,Farmacias Comunitarias,16.91
+2022-JUN-3,SuFarmacia,8.35
+2022-APR-13,Farmacias Comunitarias,23.71
+2022-OCT-28,Botica Barcia,1.15
+2022-NOV-12,Pharmacys,21.86
+2022-APR-14,FarMed,5.77
+2022-OCT-5,Botica Barcia,15.99
+2022-MAR-10,Cruz Azul,10.72
+2022-MAY-22,Cruz Azul,25.64
+2022-MAY-27,Farmacias Economicas,12.86
+2022-OCT-3,Cruz Azul,24.99
+2022-MAY-14,Botica Barcia,15.16
+2022-APR-2,Santa Martha,17.4
+2022-OCT-3,Genovesa,8.0
+2022-MAY-13,Genovesa,13.97
+2022-OCT-1,FarMed,1.37
+2022-JUN-18,Farmacias Comunitarias,10.9
+2022-NOV-4,Ecu-Vida,7.46
+2022-APR-13,Farmacias Economicas,15.55
+2022-OCT-7,Ecu-Vida,23.38
+2022-MAY-9,Genovesa,28.89
+2022-APR-15,Ecu-Vida,4.7
+2022-SEP-27,Sana Sana,27.29
+2022-OCT-1,Cruz Azul,12.55
+2022-SEP-22,Farmacias Comunitarias,18.26
+2022-JUN-14,Farmacias Economicas,6.67
+2022-NOV-6,Ecu-Vida,13.76
+2022-SEP-17,Medicity,23.3
+2022-OCT-19,Farmacias Comunitarias,29.02
+2022-APR-1,SuFarmacia,21.72
+2022-DEC-9,Genovesa,5.89
+2022-OCT-20,Sana Sana,17.41
+2022-MAY-7,Cruz Azul,16.63
+2022-JUN-22,Ecu-Vida,9.05
+2022-SEP-24,SuFarmacia,28.69
+2022-JUL-7,Sana Sana,8.96
+2022-OCT-15,Botica Barcia,12.68
+2022-MAR-3,Santa Martha,22.7
+2022-MAY-1,Santa Martha,7.66
+2022-SEP-30,Pharmacys,14.39
+2022-MAR-13,Fybeca,27.93
+2022-MAY-17,Farmacias Comunitarias,3.19
+2022-JUN-30,FarMed,4.39
+2022-DEC-4,Cruz Azul,2.09
+2022-SEP-12,SuFarmacia,3.4
+2022-JUN-6,Cruz Azul,19.56
+2022-MAY-13,Farmacias Economicas,11.22
+2022-APR-24,Pharmacys,27.39
+2022-JUL-19,Sana Sana,28.0
+2022-MAR-12,SuFarmacia,14.8
+2022-MAR-19,Santa Martha,19.12
+2022-NOV-28,Medicity,22.15
+2022-APR-8,Botica Barcia,29.87
+2022-NOV-17,Cruz Azul,28.62
+2022-MAY-29,Genovesa,27.03
+2022-MAR-14,FarMed,22.22
+2022-MAR-2,Ecu-Vida,22.02
+2022-MAY-25,Ecu-Vida,12.42
+2022-JUN-24,Fybeca,16.0
+2022-NOV-10,Pharmacys,23.52
+2022-OCT-1,Sana Sana,27.34
+2022-OCT-15,SuFarmacia,21.65
+2022-JUL-8,Medicity,27.27
+2022-JUL-3,Medicity,7.5
+2022-SEP-11,FarMed,8.94
+2022-JUL-10,Sana Sana,21.2
+2022-OCT-26,Farmacias Comunitarias,14.32
+2022-SEP-7,SuFarmacia,25.01
+2022-NOV-10,Pharmacys,29.58
+2022-OCT-26,Ecu-Vida,28.19
+2022-DEC-5,Fybeca,9.98
+2022-APR-7,Genovesa,27.27
+2022-SEP-25,Pharmacys,0.57
+2022-NOV-21,Ecu-Vida,2.34
+2022-MAY-22,Farmacias Comunitarias,1.42
+2022-JUN-28,Medicity,11.25
+2022-SEP-30,Fybeca,26.13
+2022-JUL-8,Santa Martha,8.23
+2022-NOV-23,Farmacias Economicas,27.29
+2022-NOV-5,Pharmacys,16.97
+2022-DEC-9,Sana Sana,2.47
+2022-MAY-30,Cruz Azul,13.18
+2022-DEC-8,Medicity,29.78
+2022-MAY-22,SuFarmacia,4.96
+2022-JUL-7,FarMed,24.22
+2022-SEP-24,Medicity,10.67
+2022-APR-21,Ecu-Vida,6.44
+2022-SEP-17,Medicity,20.81
+2022-SEP-5,Sana Sana,3.45
+2022-DEC-17,Farmacias Economicas,17.52
+2022-MAR-26,Santa Martha,20.44
+2022-MAR-24,FarMed,29.1
+2022-DEC-12,Genovesa,8.1
+2022-NOV-11,Farmacias Comunitarias,24.22
+2022-MAY-28,SuFarmacia,10.45
+2022-JUN-20,SuFarmacia,22.66
+2022-JUN-14,Farmacias Economicas,22.63
+2022-MAR-20,Pharmacys,0.91
+2022-OCT-25,Botica Barcia,22.36
+2022-MAR-2,Santa Martha,8.01
+2022-DEC-20,Botica Barcia,17.84
+2022-JUL-22,Farmacias Economicas,3.26
+2022-APR-17,SuFarmacia,6.37
+2022-APR-4,Botica Barcia,16.24
+2022-JUL-21,Santa Martha,19.71
+2022-MAY-9,Fybeca,21.61
+2022-JUL-18,Fybeca,22.54
+2022-MAY-12,Botica Barcia,4.38
+2022-SEP-22,FarMed,8.35
+2022-JUN-22,Santa Martha,16.17
+2022-NOV-11,Santa Martha,14.74
+2022-MAY-14,Cruz Azul,11.56
+2022-MAY-28,Genovesa,17.67
+2022-APR-13,Farmacias Comunitarias,17.28
+2022-JUN-18,Medicity,26.14
+2022-MAR-28,Farmacias Economicas,4.36
+2022-OCT-13,Fybeca,0.05
+2022-JUN-12,Fybeca,27.56
+2022-OCT-24,Farmacias Comunitarias,26.54
+2022-JUL-28,Sana Sana,5.19
+2022-SEP-6,Cruz Azul,2.94
+2022-DEC-10,Santa Martha,24.69
+2022-NOV-12,Cruz Azul,18.16
+2022-APR-13,Farmacias Comunitarias,2.38
+2022-APR-18,SuFarmacia,20.22
+2022-JUL-12,FarMed,0.15
+2022-DEC-18,Ecu-Vida,23.77
+2022-MAY-16,SuFarmacia,25.73
+2022-MAR-11,Medicity,25.84
+2022-NOV-4,Medicity,21.82
+2022-APR-3,Pharmacys,25.23
+2022-OCT-28,Santa Martha,2.55
+2022-JUL-14,Sana Sana,26.34
+2022-SEP-25,Santa Martha,10.27
+2022-DEC-22,Farmacias Economicas,5.77
+2022-APR-19,Cruz Azul,24.69
+2022-SEP-16,Botica Barcia,6.6
+2022-SEP-3,Botica Barcia,22.47
+2022-MAR-28,Medicity,24.57
+2022-APR-2,Cruz Azul,18.08
+2022-MAR-28,Fybeca,2.99
+2022-DEC-21,Medicity,6.61
+2022-JUL-27,Farmacias Economicas,11.04
+2022-JUL-3,FarMed,0.32
+2022-SEP-21,Cruz Azul,10.61
+2022-OCT-27,Pharmacys,16.28
+2022-JUL-24,Pharmacys,21.13
+2022-MAY-29,Genovesa,4.65
+2022-NOV-7,Farmacias Comunitarias,6.68
+2022-MAR-18,SuFarmacia,12.68
+2022-OCT-10,Farmacias Economicas,23.87
+2022-MAY-25,Sana Sana,26.89
+2022-JUL-25,Ecu-Vida,14.27
+2022-OCT-19,SuFarmacia,17.1
+2022-MAR-7,Farmacias Comunitarias,23.32
+2022-DEC-22,Botica Barcia,29.55
+2022-OCT-23,Genovesa,6.28
+2022-MAR-30,FarMed,7.23
+2022-JUN-23,Farmacias Comunitarias,28.35
+2022-DEC-13,Cruz Azul,15.51
+2022-DEC-20,FarMed,15.41
+2022-MAY-18,Genovesa,0.66
+2022-SEP-17,Cruz Azul,24.33
+2022-MAR-5,Sana Sana,18.02
+2022-OCT-9,Pharmacys,27.33
+2022-MAY-30,Cruz Azul,17.4
+2022-OCT-23,Santa Martha,7.44
+2022-JUN-20,FarMed,5.26
+2022-DEC-17,SuFarmacia,11.37
+2022-JUL-19,Cruz Azul,6.23
+2022-DEC-11,Genovesa,1.86
+2022-OCT-4,Fybeca,1.54
+2022-DEC-26,Santa Martha,2.37
+2022-SEP-14,Ecu-Vida,11.03
+2022-OCT-9,Ecu-Vida,15.13
+2022-JUN-18,Medicity,16.7
+2022-APR-23,Santa Martha,1.83
+2022-JUN-28,Cruz Azul,2.07
+2022-SEP-8,Santa Martha,15.2
+2022-MAR-5,Farmacias Comunitarias,7.87
+2022-SEP-15,Santa Martha,22.81
+2022-SEP-12,Fybeca,15.6
+2022-NOV-1,Cruz Azul,14.79
+2022-DEC-2,Cruz Azul,18.89
+2022-NOV-26,SuFarmacia,15.55
+2022-JUN-10,Botica Barcia,29.74
+2022-MAY-25,Medicity,19.47
+2022-APR-10,Fybeca,23.6
+2022-NOV-5,Cruz Azul,9.66
+2022-MAR-30,Botica Barcia,4.74
+2022-MAR-6,Farmacias Comunitarias,23.6
+2022-DEC-27,Medicity,25.79
+2022-SEP-30,Medicity,4.19
+2022-NOV-8,Sana Sana,19.72
+2022-NOV-21,FarMed,17.03
+2022-JUL-8,Farmacias Comunitarias,17.45
+2022-JUL-25,Farmacias Economicas,23.33
+2022-MAR-30,Fybeca,8.52
+2022-OCT-30,SuFarmacia,16.89
+2022-NOV-26,Farmacias Economicas,13.28
+2022-NOV-15,FarMed,15.13
+2022-MAY-8,FarMed,25.6
+2022-MAR-28,Pharmacys,17.84
+2022-MAR-15,Fybeca,27.33
+2022-MAR-22,Pharmacys,16.32
+2022-MAR-24,Botica Barcia,4.11
+2022-JUL-27,SuFarmacia,13.8
+2022-NOV-21,FarMed,24.01
+2022-MAY-6,Farmacias Comunitarias,2.01
+2022-JUL-9,Pharmacys,0.33
+2022-NOV-25,Genovesa,15.64
+2022-OCT-6,Cruz Azul,7.19
+2022-OCT-1,Cruz Azul,14.55
+2022-APR-14,Santa Martha,23.44
+2022-SEP-19,Farmacias Economicas,3.98
+2022-DEC-26,Santa Martha,22.93
+2022-OCT-11,Santa Martha,26.32
+2022-APR-23,Medicity,1.72
+2022-JUN-6,Santa Martha,4.63
+2022-APR-13,Medicity,2.13
+2022-JUL-3,Sana Sana,28.98
+2022-DEC-27,Medicity,11.63
+2022-JUN-3,SuFarmacia,2.49
+2022-OCT-13,Pharmacys,2.94
+2022-APR-26,Sana Sana,13.17
+2022-MAY-14,Farmacias Economicas,26.82
+2022-NOV-22,Fybeca,14.78
+2022-MAY-20,Santa Martha,28.29
+2022-NOV-14,Fybeca,4.75
+2022-SEP-9,Sana Sana,28.16
+2022-NOV-3,Botica Barcia,29.43
+2022-MAR-3,Pharmacys,4.87
+2022-JUN-28,Farmacias Economicas,25.16
+2022-SEP-6,Sana Sana,3.88
+2022-NOV-4,Fybeca,2.34
+2022-NOV-22,Farmacias Comunitarias,15.75
+2022-SEP-27,Cruz Azul,18.42
+2022-OCT-25,SuFarmacia,29.05
+2022-SEP-4,Cruz Azul,5.13
+2022-SEP-10,Medicity,25.42
+2022-DEC-2,Pharmacys,13.33
+2022-OCT-25,Farmacias Economicas,12.36
+2022-MAR-20,Farmacias Economicas,3.08
+2022-JUL-16,Farmacias Economicas,14.09
+2022-NOV-20,Pharmacys,0.71
+2022-JUN-13,Fybeca,0.32
+2022-JUN-13,Farmacias Comunitarias,21.31
+2022-OCT-19,FarMed,29.9
+2022-JUL-9,Sana Sana,2.52
+2022-JUL-21,Ecu-Vida,2.88
+2022-MAY-9,Cruz Azul,7.17
+2022-MAY-4,FarMed,10.91
+2022-MAY-6,FarMed,13.58
+2022-MAY-23,Ecu-Vida,27.55
+2022-APR-30,Genovesa,28.84
+2022-MAY-2,Botica Barcia,26.82
+2022-JUN-27,Farmacias Economicas,23.83
+2022-JUL-17,Botica Barcia,20.96
+2022-SEP-14,Fybeca,15.31
+2022-APR-3,Pharmacys,0.73
+2022-NOV-13,Fybeca,0.94
+2022-NOV-22,Pharmacys,20.42
+2022-SEP-12,FarMed,4.56
+2022-MAR-28,Farmacias Comunitarias,4.21
+2022-JUL-19,Genovesa,20.51
+2022-SEP-17,Ecu-Vida,16.11
+2022-NOV-23,Fybeca,12.38
+2022-SEP-6,Cruz Azul,0.68
+2022-DEC-4,Botica Barcia,1.26
+2022-JUL-19,Cruz Azul,11.68
+2022-DEC-30,Medicity,11.78
+2022-OCT-30,Pharmacys,10.53
+2022-SEP-26,Sana Sana,10.62
+2022-APR-16,Ecu-Vida,2.85
+2022-DEC-15,Farmacias Comunitarias,23.69
+2022-OCT-4,Genovesa,17.44
+2022-MAR-6,Santa Martha,6.18
+2022-NOV-16,SuFarmacia,5.06
+2022-DEC-12,Pharmacys,15.02
+2022-OCT-22,SuFarmacia,3.61
+2022-SEP-2,Pharmacys,7.4
+2022-JUN-29,Farmacias Economicas,20.69
+2022-MAR-19,Farmacias Comunitarias,7.41
+2022-APR-1,Fybeca,14.45
+2022-NOV-4,Sana Sana,9.48
+2022-DEC-11,Botica Barcia,24.65
+2022-NOV-10,FarMed,2.39
+2022-SEP-7,Ecu-Vida,6.74
+2022-DEC-15,Sana Sana,0.89
+2022-NOV-17,Botica Barcia,27.55
+2022-DEC-30,Genovesa,8.62
+2022-MAR-6,SuFarmacia,28.69
+2022-JUL-29,Fybeca,22.91
+2022-SEP-30,Farmacias Economicas,3.33
+2022-JUN-18,Farmacias Comunitarias,18.42
+2022-JUL-29,Botica Barcia,22.08
+2022-JUN-18,Farmacias Comunitarias,26.86
+2022-JUN-1,Ecu-Vida,12.69
+2022-OCT-24,Santa Martha,12.53
+2022-MAR-12,Farmacias Comunitarias,18.02
+2022-JUL-10,Sana Sana,20.73
+2022-JUL-4,Farmacias Comunitarias,3.79
+2022-OCT-3,Cruz Azul,3.7
+2022-SEP-19,Farmacias Comunitarias,3.12
+2022-JUN-2,Santa Martha,1.08
+2022-MAY-6,SuFarmacia,15.58
+2022-DEC-17,Cruz Azul,13.31
+2022-SEP-8,Botica Barcia,17.07
+2022-MAR-30,Santa Martha,0.76
+2022-MAY-1,Botica Barcia,4.41
+2022-JUN-8,Medicity,8.03
+2022-DEC-14,Sana Sana,9.6
+2022-NOV-28,Cruz Azul,3.93
+2022-DEC-14,Farmacias Economicas,27.92
+2022-OCT-29,Fybeca,17.26
+2022-JUL-4,Fybeca,20.41
+2022-JUL-27,Botica Barcia,25.38
+2022-APR-8,Ecu-Vida,21.78
+2022-MAR-27,Botica Barcia,18.62
+2022-NOV-26,Farmacias Economicas,22.4
+2022-APR-13,Genovesa,25.86
+2022-SEP-22,Genovesa,14.08
+2022-MAY-14,Cruz Azul,24.63
+2022-APR-13,Fybeca,3.93
+2022-MAR-10,Pharmacys,15.34
+2022-NOV-13,Genovesa,6.84
+2022-JUN-21,Fybeca,22.43
+2022-DEC-26,Ecu-Vida,4.2
+2022-MAR-27,Pharmacys,7.95
+2022-JUL-3,Ecu-Vida,17.48
+2022-APR-18,Santa Martha,13.33
+2022-NOV-25,Sana Sana,21.35
+2022-OCT-25,Sana Sana,7.85
+2022-JUN-10,Sana Sana,25.56
+2022-JUN-23,Cruz Azul,6.32
+2022-OCT-16,Fybeca,29.74
+2022-OCT-29,Botica Barcia,22.32
+2022-DEC-5,Cruz Azul,28.57
+2022-OCT-12,Sana Sana,24.11
+2022-JUN-29,Santa Martha,21.26
+2022-JUN-5,Genovesa,14.62
+2022-JUL-13,FarMed,29.77
+2022-OCT-12,Santa Martha,7.11
+2022-MAY-18,Fybeca,14.9
+2022-APR-20,SuFarmacia,25.21
+2022-MAR-10,Fybeca,28.41
+2022-JUN-30,Fybeca,20.6
+2022-MAY-29,Santa Martha,12.7
+2022-DEC-12,Sana Sana,16.13
+2022-NOV-17,Botica Barcia,28.99
+2022-JUN-21,Cruz Azul,7.29
+2022-MAY-20,Genovesa,26.51
+2022-APR-7,FarMed,18.96
+2022-MAY-9,Sana Sana,21.54
+2022-JUN-25,Cruz Azul,18.34
+2022-OCT-3,Ecu-Vida,2.75
+2022-MAY-15,Medicity,0.87
+2022-MAR-13,Botica Barcia,1.61
+2022-JUL-6,Botica Barcia,25.11
+2022-JUL-7,FarMed,11.09
+2022-NOV-14,FarMed,9.9
+2022-DEC-20,Sana Sana,12.74
+2022-JUL-3,Medicity,18.4
+2022-MAY-24,Santa Martha,28.7
+2022-JUN-18,Botica Barcia,29.42
+2022-JUL-24,Botica Barcia,2.0
+2022-APR-9,Sana Sana,17.4
+2022-JUN-25,Cruz Azul,16.83
+2022-SEP-5,Medicity,2.74
+2022-OCT-19,SuFarmacia,29.7
+2022-OCT-21,Cruz Azul,2.62
+2022-NOV-1,Fybeca,26.59
+2022-APR-12,Santa Martha,1.83
+2022-JUL-2,Pharmacys,9.33
+2022-DEC-11,Botica Barcia,28.77
+2022-MAY-18,Farmacias Comunitarias,4.79
+2022-MAR-19,Pharmacys,20.78
+2022-NOV-16,Medicity,20.52
+2022-SEP-26,Farmacias Comunitarias,18.56
+2022-SEP-16,Santa Martha,27.98
+2022-MAY-29,Sana Sana,17.99
+2022-JUL-21,SuFarmacia,23.41
+2022-OCT-7,Santa Martha,18.4
+2022-JUL-30,Genovesa,0.76
+2022-JUL-30,Medicity,16.16
+2022-OCT-26,Santa Martha,12.69
+2022-JUL-7,Farmacias Economicas,16.37
+2022-NOV-25,Pharmacys,20.87
+2022-MAR-6,Cruz Azul,11.8
+2022-JUN-9,Sana Sana,6.96
+2022-JUL-4,Sana Sana,23.02
+2022-APR-5,Farmacias Comunitarias,26.17
+2022-MAY-14,Botica Barcia,26.36
+2022-DEC-27,Medicity,4.44
+2022-APR-4,Fybeca,8.73
+2022-OCT-16,Santa Martha,10.11
+2022-JUN-5,Farmacias Economicas,21.46
+2022-JUN-5,FarMed,13.11
+2022-NOV-4,Ecu-Vida,16.39
+2022-APR-22,Farmacias Comunitarias,28.85
+2022-NOV-16,Medicity,17.85
+2022-JUL-12,Pharmacys,28.58
+2022-MAY-8,Cruz Azul,17.89
+2022-MAY-15,Cruz Azul,25.94
+2022-MAR-22,Sana Sana,22.65
+2022-SEP-18,SuFarmacia,1.37
+2022-NOV-15,Cruz Azul,19.45
+2022-SEP-11,Santa Martha,7.12
+2022-MAR-22,Fybeca,8.99
+2022-APR-6,Farmacias Comunitarias,22.42
+2022-DEC-14,Farmacias Comunitarias,9.59
+2022-APR-13,Farmacias Economicas,18.84
+2022-NOV-30,Cruz Azul,14.58
+2022-JUN-3,Sana Sana,22.58
+2022-NOV-19,Ecu-Vida,1.48
+2022-SEP-7,Santa Martha,29.7
+2022-JUN-19,Fybeca,19.55
+2022-DEC-30,Ecu-Vida,1.91
+2022-SEP-30,Sana Sana,7.98
+2022-MAR-1,Medicity,13.64
+2022-NOV-5,Pharmacys,0.32
+2022-NOV-12,Ecu-Vida,19.48
+2022-APR-16,Sana Sana,10.47
+2022-DEC-5,Farmacias Economicas,16.14
+2022-SEP-18,Medicity,15.38
+2022-OCT-21,Sana Sana,19.93
+2022-MAY-11,Genovesa,18.33
+2022-JUL-2,Botica Barcia,7.47
+2022-NOV-11,SuFarmacia,18.05
+2022-MAY-9,Fybeca,4.5
+2022-JUN-11,Farmacias Economicas,4.69
+2022-SEP-25,Fybeca,13.26
+2022-OCT-18,Farmacias Economicas,15.41
+2022-OCT-18,Genovesa,5.92
+2022-JUN-16,Cruz Azul,12.04
+2022-OCT-8,Genovesa,25.23
+2022-JUL-16,Genovesa,10.91
+2022-JUL-6,FarMed,16.6
+2022-NOV-14,Santa Martha,27.13
+2022-APR-21,Genovesa,4.46
+2022-DEC-12,Botica Barcia,24.17
+2022-DEC-19,Sana Sana,25.94
+2022-NOV-13,Cruz Azul,0.33
+2022-APR-12,FarMed,0.12
+2022-APR-29,Botica Barcia,28.63
+2022-MAY-26,Farmacias Comunitarias,3.05
+2022-APR-16,SuFarmacia,20.77
+2022-SEP-9,Ecu-Vida,10.46
+2022-NOV-2,Santa Martha,22.56
+2022-SEP-19,Pharmacys,3.62
+2022-OCT-27,Santa Martha,25.54
+2022-MAY-10,Cruz Azul,16.35
+2022-APR-25,Ecu-Vida,27.2
+2022-APR-25,Santa Martha,25.45
+2022-MAY-9,Ecu-Vida,9.19
+2022-JUN-7,Farmacias Economicas,22.08
+2022-DEC-7,Botica Barcia,17.2
+2022-JUN-22,Genovesa,13.56
+2022-APR-24,Farmacias Comunitarias,8.31
+2022-JUN-5,Medicity,2.43
+2022-OCT-7,Ecu-Vida,0.78
+2022-MAY-30,Farmacias Comunitarias,16.6
+2022-OCT-4,Pharmacys,16.45
+2022-MAR-18,Fybeca,24.72
+2022-MAR-19,Cruz Azul,7.93
+2022-OCT-24,Botica Barcia,6.17
+2022-MAR-6,Cruz Azul,24.77
+2022-DEC-15,Ecu-Vida,0.97
+2022-OCT-12,FarMed,7.76
+2022-NOV-7,SuFarmacia,29.12
+2022-OCT-14,Santa Martha,2.37
+2022-MAY-28,Botica Barcia,20.49
+2022-MAY-28,SuFarmacia,10.43
+2022-JUL-27,Genovesa,7.23
+2022-JUN-14,Farmacias Comunitarias,27.22
+2022-SEP-16,Fybeca,9.16
+2022-DEC-15,Cruz Azul,25.06
+2022-DEC-21,Pharmacys,10.9
+2022-MAR-21,Farmacias Comunitarias,19.57
+2022-NOV-7,Cruz Azul,29.19
+2022-SEP-3,Botica Barcia,18.13
+2022-JUN-30,Farmacias Economicas,23.94
+2022-MAR-22,Ecu-Vida,14.78
+2022-APR-19,FarMed,7.15
+2022-SEP-3,Pharmacys,11.5
+2022-DEC-26,Cruz Azul,23.01
+2022-MAR-4,Pharmacys,22.87
+2022-APR-19,Sana Sana,20.71
+2022-OCT-7,Farmacias Comunitarias,19.48
+2022-JUL-16,Fybeca,11.09
+2022-SEP-27,SuFarmacia,3.11
+2022-NOV-1,Genovesa,3.38
+2022-JUL-5,Sana Sana,7.29
+2022-MAR-5,Cruz Azul,22.97
+2022-JUL-23,Fybeca,22.41
+2022-APR-17,Farmacias Economicas,24.04
+2022-SEP-2,Fybeca,10.49
+2022-NOV-26,Botica Barcia,3.15
+2022-MAY-22,Farmacias Comunitarias,4.18
+2022-MAY-22,Medicity,29.09
+2022-JUN-10,Botica Barcia,28.36
+2022-NOV-15,Santa Martha,27.56
+2022-OCT-26,Medicity,10.47
+2022-JUN-17,Santa Martha,12.96
+2022-NOV-6,Santa Martha,18.88
+2022-MAR-5,SuFarmacia,19.43
+2022-MAY-24,SuFarmacia,20.53
+2022-OCT-29,Pharmacys,12.03
+2022-APR-20,SuFarmacia,4.46
+2022-MAR-4,Fybeca,17.37
+2022-APR-21,SuFarmacia,11.1
+2022-MAY-25,Farmacias Comunitarias,19.35
+2022-JUN-1,Fybeca,13.5
+2022-MAR-11,SuFarmacia,26.82
+2022-MAR-2,Genovesa,6.0
+2022-MAY-27,Medicity,14.38
+2022-JUN-20,Fybeca,24.17
+2022-JUN-25,Sana Sana,19.26
+2022-NOV-27,Santa Martha,26.34
+2022-JUN-2,Farmacias Comunitarias,24.76
+2022-SEP-12,Medicity,9.66
+2022-OCT-16,FarMed,5.41
+2022-JUL-8,Fybeca,10.91
+2022-DEC-14,FarMed,3.61
+2022-APR-15,SuFarmacia,24.74
+2022-APR-3,Cruz Azul,23.94
+2022-NOV-18,Cruz Azul,15.27
+2022-JUN-26,Farmacias Economicas,20.86
+2022-SEP-1,Fybeca,1.77
+2022-NOV-29,Botica Barcia,16.91
+2022-APR-12,SuFarmacia,21.62
+2022-APR-30,FarMed,20.44
+2022-DEC-24,Botica Barcia,19.6
+2022-NOV-6,SuFarmacia,19.47
+2022-APR-26,Pharmacys,4.9
+2022-MAR-8,Santa Martha,0.24
+2022-MAY-5,Fybeca,0.87
+2022-MAR-30,Sana Sana,20.8
+2022-MAY-28,Botica Barcia,14.59
+2022-OCT-27,Ecu-Vida,15.25
+2022-SEP-5,FarMed,14.21
+2022-APR-8,Genovesa,10.78
+2022-MAR-30,Ecu-Vida,15.89
+2022-MAY-11,Genovesa,12.54
+2022-MAY-9,Farmacias Comunitarias,6.5
+2022-JUL-11,Sana Sana,23.78
+2022-SEP-19,Fybeca,21.47
+2022-MAY-22,Santa Martha,26.72
+2022-OCT-24,Sana Sana,14.69
+2022-MAY-22,SuFarmacia,22.95
+2022-OCT-11,FarMed,4.05
+2022-DEC-21,Fybeca,22.66
+2022-DEC-2,Ecu-Vida,23.97
+2022-DEC-5,Genovesa,27.39
+2022-MAY-16,Medicity,25.41
+2022-NOV-13,Fybeca,29.78
+2022-JUN-7,Medicity,7.38
+2022-MAY-6,Genovesa,26.78
+2022-NOV-15,Fybeca,18.13
+2022-APR-1,Pharmacys,9.12
+2022-MAR-21,Farmacias Comunitarias,7.18
+2022-SEP-23,Fybeca,27.71
+2022-JUN-19,Medicity,16.31
+2022-OCT-5,SuFarmacia,24.99
+2022-DEC-17,Sana Sana,13.3
+2022-APR-28,Ecu-Vida,18.73
+2022-APR-17,Farmacias Comunitarias,8.34
+2022-OCT-1,SuFarmacia,29.99
+2022-SEP-16,Fybeca,21.64
+2022-JUN-11,Farmacias Comunitarias,29.04
+2022-SEP-19,Cruz Azul,24.03
+2022-DEC-24,Ecu-Vida,16.49
+2022-DEC-30,Farmacias Economicas,1.48
+2022-NOV-27,Cruz Azul,23.37
+2022-JUN-14,Cruz Azul,16.38
+2022-DEC-7,Santa Martha,17.79
+2022-DEC-27,Farmacias Economicas,25.18
+2022-APR-11,Pharmacys,1.01
+2022-OCT-29,Pharmacys,20.66
+2022-NOV-27,Medicity,11.96
+2022-OCT-18,Cruz Azul,0.25
+2022-MAY-12,Cruz Azul,11.96
+2022-MAR-23,Botica Barcia,13.79
+2022-OCT-6,Medicity,10.1
+2022-MAY-26,Botica Barcia,22.14
+2022-NOV-17,Medicity,4.4
+2022-DEC-11,Sana Sana,11.24
+2022-JUN-21,Botica Barcia,23.17
+2022-MAY-12,SuFarmacia,11.23
+2022-SEP-11,Farmacias Comunitarias,29.34
+2022-DEC-12,Medicity,17.27
+2022-APR-4,Sana Sana,8.33
+2022-NOV-1,Sana Sana,0.69
+2022-DEC-24,Cruz Azul,1.14
+2022-OCT-16,Sana Sana,19.01
+2022-MAR-12,Cruz Azul,23.07
+2022-APR-14,FarMed,20.27
+2022-JUL-26,Farmacias Economicas,6.46
+2022-OCT-19,Medicity,11.97
+2022-APR-22,Medicity,20.75
+2022-NOV-8,Ecu-Vida,15.97
+2022-MAY-25,SuFarmacia,24.69
+2022-APR-1,Cruz Azul,21.8
+2022-SEP-1,Fybeca,4.8
+2022-MAR-3,Medicity,16.92
+2022-APR-30,Cruz Azul,15.26
+2022-APR-17,Farmacias Comunitarias,6.84
+2022-MAY-17,Farmacias Comunitarias,22.94
+2022-OCT-4,Botica Barcia,10.23
+2022-MAR-1,Botica Barcia,29.85
+2022-MAY-27,FarMed,5.08
+2022-SEP-21,Cruz Azul,28.24
+2022-NOV-13,Fybeca,7.62
+2022-APR-27,Santa Martha,29.92
+2022-NOV-13,Farmacias Comunitarias,12.97
+2022-MAY-11,Ecu-Vida,22.55
+2022-APR-9,FarMed,9.84
+2022-JUL-21,Santa Martha,9.15
+2022-NOV-11,Farmacias Economicas,17.31
+2022-MAR-11,Santa Martha,28.55
+2022-JUL-7,Ecu-Vida,8.49
+2022-APR-27,Fybeca,28.56
+2022-MAY-18,FarMed,21.94
+2022-APR-10,Santa Martha,12.46
+2022-OCT-17,FarMed,3.48
+2022-DEC-24,Pharmacys,29.17
+2022-JUL-4,Pharmacys,17.17
+2022-MAR-4,Pharmacys,23.78
+2022-JUL-29,Medicity,6.7
+2022-JUL-25,SuFarmacia,11.53
+2022-JUL-22,Pharmacys,12.6
+2022-NOV-21,Santa Martha,21.16
+2022-APR-13,Farmacias Economicas,5.27
+2022-MAY-13,Sana Sana,12.51
+2022-DEC-24,Sana Sana,24.98
+2022-JUL-7,Sana Sana,23.33
+2022-MAY-16,Ecu-Vida,23.84
+2022-NOV-5,Pharmacys,14.65
+2022-MAY-6,Santa Martha,14.6
+2022-JUN-10,Ecu-Vida,7.05
+2022-APR-19,Pharmacys,1.66
+2022-OCT-21,FarMed,14.82
+2022-DEC-16,Fybeca,1.16
+2022-SEP-27,Fybeca,4.46
+2022-DEC-25,Medicity,21.54
+2022-SEP-3,Farmacias Economicas,22.2
+2022-DEC-21,FarMed,5.85
+2022-JUL-25,Medicity,25.31
+2022-OCT-12,Ecu-Vida,22.82
+2022-SEP-2,Farmacias Economicas,29.25
+2022-SEP-11,SuFarmacia,14.12
+2022-JUN-18,Medicity,3.06
+2022-NOV-5,Farmacias Economicas,15.44
+2022-JUN-27,Cruz Azul,6.98
+2022-JUL-29,Cruz Azul,21.14
+2022-DEC-22,FarMed,6.29
+2022-MAY-17,Ecu-Vida,14.12
+2022-JUN-6,Cruz Azul,25.08
+2022-JUL-14,Farmacias Comunitarias,21.13
+2022-JUN-9,Sana Sana,21.95
+2022-JUN-8,Sana Sana,17.21
+2022-MAY-5,FarMed,12.19
+2022-OCT-11,Genovesa,1.21
+2022-MAY-16,Botica Barcia,25.48
+2022-OCT-16,Farmacias Economicas,10.24
+2022-MAY-11,Botica Barcia,8.81
+2022-JUL-1,Genovesa,12.74
+2022-SEP-9,FarMed,28.76
+2022-APR-2,Botica Barcia,12.28
+2022-OCT-28,Botica Barcia,5.88
+2022-MAR-25,Farmacias Economicas,3.36
+2022-DEC-15,Farmacias Economicas,13.4
+2022-MAR-16,Farmacias Economicas,26.97
+2022-JUN-11,Farmacias Economicas,5.35
+2022-MAR-4,Fybeca,29.18
+2022-SEP-24,Cruz Azul,9.92
+2022-JUL-20,SuFarmacia,27.22
+2022-JUL-22,Medicity,17.24
+2022-APR-21,Ecu-Vida,4.02
+2022-MAR-24,Fybeca,18.83
+2022-DEC-18,Pharmacys,26.01
+2022-JUN-14,FarMed,16.27
+2022-JUL-12,Farmacias Comunitarias,19.31
+2022-MAR-17,Botica Barcia,25.33
+2022-DEC-19,Pharmacys,10.18
+2022-DEC-29,Botica Barcia,11.55
+2022-DEC-19,Farmacias Comunitarias,0.57
+2022-OCT-15,Santa Martha,12.36
+2022-NOV-13,Fybeca,2.79
+2022-DEC-4,Botica Barcia,7.11
+2022-OCT-5,Fybeca,18.61
+2022-JUN-25,Fybeca,9.29
+2022-NOV-9,Botica Barcia,18.97
+2022-JUN-30,Genovesa,19.2
+2022-MAY-19,FarMed,26.73
+2022-MAR-29,Sana Sana,3.66
+2022-DEC-25,Santa Martha,13.46
+2022-DEC-20,Ecu-Vida,20.86
+2022-MAR-25,SuFarmacia,27.31
+2022-APR-25,Farmacias Comunitarias,8.48
+2022-OCT-19,Fybeca,2.5
+2022-SEP-1,Botica Barcia,5.08
+2022-APR-15,Fybeca,23.73
+2022-DEC-19,FarMed,25.0
+2022-SEP-27,Farmacias Comunitarias,13.03
+2022-OCT-4,Cruz Azul,20.49
+2022-MAR-5,Genovesa,28.24
+2022-JUN-8,Genovesa,3.54
+2022-SEP-19,Fybeca,5.56
+2022-APR-11,Ecu-Vida,2.87
+2022-APR-29,FarMed,16.29
+2022-JUN-6,Genovesa,2.23
+2022-APR-10,Medicity,18.35
+2022-JUN-24,Santa Martha,25.27
+2022-SEP-11,Medicity,12.81
+2022-MAR-14,Fybeca,16.86
+2022-MAR-20,Ecu-Vida,20.64
+2022-SEP-13,Farmacias Economicas,2.24
+2022-SEP-21,SuFarmacia,18.18
+2022-JUN-27,Farmacias Comunitarias,20.82
+2022-DEC-18,SuFarmacia,10.29
+2022-JUL-13,Medicity,1.73
+2022-JUL-2,Fybeca,8.43
+2022-JUL-24,Medicity,0.03
+2022-SEP-24,Sana Sana,18.76
+2022-JUL-17,Ecu-Vida,4.93
+2022-MAR-26,Sana Sana,19.83
+2022-MAR-13,SuFarmacia,10.25
+2022-MAY-9,FarMed,14.14
+2022-OCT-30,Sana Sana,23.13
+2022-JUN-11,SuFarmacia,25.91
+2022-APR-16,Farmacias Economicas,16.02
+2022-APR-14,Botica Barcia,21.86
+2022-SEP-10,Pharmacys,5.4
+2022-JUN-22,Santa Martha,6.32
+2022-NOV-28,Santa Martha,20.59
+2022-OCT-4,Botica Barcia,20.79
+2022-SEP-29,Santa Martha,13.51
+2022-JUN-15,Medicity,22.53
+2022-DEC-29,Botica Barcia,9.85
+2022-DEC-12,Botica Barcia,28.67
+2022-JUL-7,Genovesa,28.35
+2022-MAY-30,Cruz Azul,16.77
+2022-MAR-26,Ecu-Vida,12.11
+2022-JUL-25,Ecu-Vida,18.41
+2022-JUN-2,Botica Barcia,14.37
+2022-MAR-2,Fybeca,5.9
+2022-NOV-14,Pharmacys,22.48
+2022-APR-19,Pharmacys,0.34
+2022-JUN-6,FarMed,1.32
+2022-DEC-24,Farmacias Comunitarias,0.62
+2022-MAY-4,Botica Barcia,29.26
+2022-JUN-11,Farmacias Comunitarias,19.24
+2022-OCT-2,Sana Sana,20.43
+2022-MAR-9,Fybeca,13.5
+2022-JUL-15,Botica Barcia,26.14
+2022-SEP-16,Pharmacys,22.15
+2022-DEC-23,Fybeca,22.21
+2022-JUN-12,FarMed,20.34
+2022-APR-17,SuFarmacia,19.33
+2022-JUN-13,Genovesa,3.76
+2022-SEP-18,Fybeca,21.88
+2022-MAR-10,Cruz Azul,2.54
+2022-DEC-28,Farmacias Economicas,27.84
+2022-SEP-3,Farmacias Comunitarias,24.92
+2022-APR-19,SuFarmacia,0.72
+2022-MAR-5,Cruz Azul,17.32
+2022-JUN-16,Farmacias Comunitarias,22.31
+2022-DEC-30,Pharmacys,13.11
+2022-SEP-22,Cruz Azul,6.13
+2022-SEP-13,Medicity,12.18
+2022-OCT-13,Pharmacys,5.13
+2022-MAR-11,Cruz Azul,28.33
+2022-JUL-24,Medicity,4.05
+2022-JUL-27,Farmacias Economicas,11.49
+2022-NOV-13,Sana Sana,17.22
+2022-NOV-10,Genovesa,14.1
+2022-APR-10,Sana Sana,22.52
+2022-NOV-24,Medicity,6.89
+2022-MAY-8,Farmacias Comunitarias,1.86
+2022-JUL-29,Botica Barcia,21.01
+2022-NOV-11,Sana Sana,2.7
+2022-APR-20,Pharmacys,4.09
+2022-JUL-18,Botica Barcia,10.83
+2022-APR-14,Medicity,6.66
+2022-MAY-27,Fybeca,20.78
+2022-JUL-10,Fybeca,21.2
+2022-DEC-29,Botica Barcia,26.33
+2022-JUL-15,Sana Sana,20.18
+2022-APR-10,Pharmacys,6.23
+2022-APR-16,Santa Martha,21.44
+2022-APR-25,FarMed,5.32
+2022-MAR-13,SuFarmacia,21.75
+2022-MAR-10,Farmacias Comunitarias,9.83
+2022-OCT-18,Cruz Azul,18.48
+2022-JUN-2,Sana Sana,2.96
+2022-MAR-3,Farmacias Economicas,25.41
+2022-JUL-29,Farmacias Comunitarias,14.71
+2022-JUL-3,Ecu-Vida,0.97
+2022-MAR-26,Santa Martha,13.5
+2022-MAR-25,Pharmacys,12.87
+2022-SEP-1,Medicity,10.04
+2022-DEC-15,Cruz Azul,29.03
+2022-SEP-27,Fybeca,20.8
+2022-APR-17,SuFarmacia,9.04
+2022-JUL-8,Pharmacys,28.51
+2022-JUN-3,Pharmacys,26.78
+2022-SEP-20,Ecu-Vida,19.3
+2022-OCT-5,Farmacias Economicas,20.78
+2022-APR-29,Farmacias Comunitarias,16.71
+2022-NOV-6,Genovesa,2.45
+2022-DEC-11,Farmacias Economicas,25.03
+2022-JUL-12,Cruz Azul,3.76
+2022-APR-11,Pharmacys,5.23
+2022-NOV-5,Pharmacys,17.73
+2022-JUN-27,Ecu-Vida,8.8
+2022-OCT-26,Ecu-Vida,18.25
+2022-APR-27,Santa Martha,3.58
+2022-MAR-12,Genovesa,5.89
+2022-NOV-1,Pharmacys,2.24
+2022-DEC-14,Genovesa,26.17
+2022-MAR-5,Sana Sana,10.85
+2022-NOV-16,Farmacias Economicas,11.63
+2022-JUL-6,Farmacias Comunitarias,12.67
+2022-JUL-8,Farmacias Economicas,13.02
+2022-JUN-11,Farmacias Economicas,25.85
+2022-MAR-14,Santa Martha,18.85
+2022-JUN-19,FarMed,2.9
+2022-MAY-26,Pharmacys,3.34
+2022-MAY-3,Genovesa,3.38
+2022-NOV-1,SuFarmacia,6.56
+2022-DEC-7,SuFarmacia,10.38
+2022-MAR-30,Genovesa,0.23
+2022-SEP-18,Fybeca,29.56
+2022-APR-20,Ecu-Vida,26.7
+2022-APR-23,Ecu-Vida,27.94
+2022-JUL-28,Medicity,23.06
+2022-SEP-26,Santa Martha,24.76
+2022-MAR-7,Cruz Azul,3.94
+2022-DEC-27,FarMed,3.34
+2022-NOV-27,FarMed,6.4
+2022-OCT-23,SuFarmacia,28.41
+2022-NOV-28,Santa Martha,14.71
+2022-SEP-4,Fybeca,11.64
+2022-MAR-1,FarMed,14.8
+2022-DEC-17,FarMed,22.1
+2022-JUL-10,SuFarmacia,16.6
+2022-NOV-20,Farmacias Comunitarias,18.3
+2022-JUL-29,Farmacias Comunitarias,19.15
+2022-OCT-23,Fybeca,7.28
+2022-SEP-26,Sana Sana,20.0
+2022-NOV-10,Medicity,4.15
+2022-NOV-7,Medicity,19.15
+2022-DEC-2,Medicity,7.98
+2022-OCT-10,Sana Sana,27.91
+2022-NOV-18,Cruz Azul,21.32
+2022-NOV-17,Farmacias Economicas,21.65
+2022-OCT-16,Genovesa,23.6
+2022-DEC-14,Fybeca,29.33
+2022-SEP-22,Farmacias Economicas,28.32
+2022-JUN-12,Sana Sana,22.76
+2022-SEP-16,Botica Barcia,4.71
+2022-OCT-30,Sana Sana,25.39
+2022-SEP-26,Sana Sana,13.07
+2022-DEC-30,Santa Martha,6.0
+2022-SEP-24,Botica Barcia,23.25
+2022-JUN-19,FarMed,11.66
+2022-MAR-25,SuFarmacia,4.32
+2022-JUL-20,SuFarmacia,4.4
+2022-NOV-10,Ecu-Vida,5.6
+2022-MAY-8,Ecu-Vida,23.6
+2022-JUN-9,Fybeca,13.92
+2022-NOV-8,Fybeca,22.02
+2022-JUN-9,Farmacias Economicas,6.34
+2022-DEC-2,SuFarmacia,5.35
+2022-NOV-27,Sana Sana,23.88
+2022-NOV-25,Genovesa,11.08
+2022-JUL-9,Medicity,21.24
+2022-MAY-26,Fybeca,12.84
+2022-MAR-7,SuFarmacia,25.32
+2022-APR-8,Santa Martha,25.45
+2022-MAR-18,Genovesa,13.41
+2022-NOV-19,Genovesa,4.05
+2022-MAY-6,Fybeca,11.37
+2022-SEP-9,Farmacias Comunitarias,26.75
+2022-MAR-10,Pharmacys,15.22
+2022-MAY-29,Pharmacys,4.45
+2022-OCT-19,Medicity,11.57
+2022-MAY-16,Farmacias Comunitarias,0.84
+2022-NOV-20,Farmacias Economicas,6.3
+2022-OCT-1,SuFarmacia,22.3
+2022-APR-5,Medicity,2.77
+2022-DEC-15,Farmacias Economicas,7.77
+2022-OCT-20,FarMed,27.28
+2022-NOV-12,Genovesa,29.95
+2022-OCT-19,SuFarmacia,11.43
+2022-SEP-5,Sana Sana,17.0
+2022-MAR-5,Botica Barcia,17.39
+2022-OCT-15,SuFarmacia,4.71
+2022-APR-5,Farmacias Comunitarias,11.29
+2022-JUN-28,Farmacias Economicas,4.86
+2022-DEC-1,Pharmacys,22.49
+2022-MAR-18,Farmacias Economicas,22.38
+2022-JUL-15,Cruz Azul,12.37
+2022-APR-10,Farmacias Economicas,14.8
+2022-OCT-18,SuFarmacia,25.51
+2022-JUN-21,Sana Sana,5.99
+2022-MAR-30,Farmacias Comunitarias,9.18
+2022-MAY-29,Sana Sana,13.34
+2022-DEC-27,Sana Sana,28.98
+2022-NOV-3,Botica Barcia,20.12
+2022-JUN-23,Botica Barcia,17.52
+2022-APR-19,Farmacias Comunitarias,4.3
+2022-OCT-22,Genovesa,26.1
+2022-SEP-29,Medicity,28.33
+2022-OCT-28,Cruz Azul,5.77
+2022-NOV-28,Pharmacys,14.98
+2022-DEC-27,Ecu-Vida,19.55
+2022-OCT-19,Farmacias Economicas,2.23
+2022-NOV-18,Pharmacys,26.54
+2022-APR-23,FarMed,1.96
+2022-MAY-14,Medicity,9.72
+2022-SEP-25,FarMed,4.46
+2022-OCT-1,Medicity,22.78
+2022-JUN-20,Fybeca,26.27
+2022-JUL-10,Santa Martha,12.61
+2022-DEC-16,Farmacias Economicas,11.69
+2022-APR-13,FarMed,21.26
+2022-NOV-17,Botica Barcia,6.48
+2022-JUN-11,Pharmacys,6.08
+2022-SEP-15,FarMed,13.53
+2022-MAR-17,FarMed,27.23
+2022-JUN-6,Farmacias Economicas,23.21
+2022-APR-2,Sana Sana,11.99
+2022-SEP-10,Botica Barcia,22.72
+2022-JUN-14,Santa Martha,14.81
+2022-SEP-3,Ecu-Vida,14.07
+2022-NOV-17,Genovesa,24.6
+2022-JUN-16,Botica Barcia,23.51
+2022-MAR-17,Cruz Azul,14.6
+2022-MAY-18,Ecu-Vida,16.08
+2022-JUL-2,Botica Barcia,20.2
+2022-MAR-18,Ecu-Vida,12.84
+2022-JUN-13,Fybeca,5.43
+2022-MAR-22,SuFarmacia,15.52
+2022-OCT-18,SuFarmacia,25.14
+2022-OCT-2,Farmacias Comunitarias,29.12
+2022-SEP-9,Farmacias Economicas,3.03
+2022-DEC-27,Ecu-Vida,23.38
+2022-OCT-25,Genovesa,9.88
+2022-MAR-27,Farmacias Economicas,14.02
+2022-JUN-22,Medicity,6.16
+2022-DEC-7,Farmacias Comunitarias,24.04
+2022-NOV-3,FarMed,28.16
+2022-MAR-25,SuFarmacia,28.42
+2022-JUN-9,Farmacias Comunitarias,7.88
+2022-DEC-14,Botica Barcia,8.73
+2022-MAY-11,SuFarmacia,3.98
+2022-OCT-14,Fybeca,26.6
+2022-APR-21,Ecu-Vida,12.45
+2022-JUN-20,Botica Barcia,19.05
+2022-MAY-3,Botica Barcia,9.97
+2022-NOV-24,Farmacias Economicas,12.84
+2022-APR-18,Sana Sana,3.95
+2022-NOV-3,Farmacias Comunitarias,21.49
+2022-JUL-14,Pharmacys,11.63
+2022-JUN-29,Pharmacys,29.68
+2022-JUL-2,Pharmacys,25.93
+2022-SEP-9,Cruz Azul,19.02
+2022-OCT-6,Medicity,23.71
+2022-JUN-2,Sana Sana,26.01
+2022-NOV-10,FarMed,6.6
+2022-DEC-26,Genovesa,10.17
+2022-OCT-9,Cruz Azul,17.37
+2022-JUL-18,SuFarmacia,10.58
+2022-JUL-7,Fybeca,16.42
+2022-JUN-11,Cruz Azul,26.28
+2022-NOV-24,FarMed,28.13
+2022-MAY-1,Medicity,25.07
+2022-JUN-8,Sana Sana,4.95
+2022-JUN-21,Pharmacys,28.71
+2022-MAY-30,Farmacias Comunitarias,26.52
+2022-JUN-23,Botica Barcia,2.94
+2022-NOV-16,Ecu-Vida,25.61
+2022-DEC-16,Sana Sana,25.01
+2022-MAY-20,Santa Martha,19.17
+2022-JUL-11,Pharmacys,13.24
+2022-JUL-11,FarMed,0.71
+2022-JUL-19,Pharmacys,1.59
+2022-JUL-10,Medicity,6.07
+2022-OCT-3,Botica Barcia,16.82
+2022-APR-25,Farmacias Comunitarias,28.64
+2022-JUL-17,Fybeca,2.16
+2022-MAY-10,Fybeca,29.59
+2022-MAR-9,Ecu-Vida,0.09
+2022-NOV-2,Fybeca,18.18
+2022-APR-2,Genovesa,13.27
+2022-DEC-6,Genovesa,22.31
+2022-OCT-10,Fybeca,14.36
+2022-DEC-21,Botica Barcia,3.0
+2022-MAR-3,Genovesa,28.19
+2022-DEC-10,FarMed,19.7
+2022-OCT-19,SuFarmacia,14.96
+2022-APR-5,Genovesa,26.39
+2022-MAY-5,Farmacias Economicas,7.68
+2022-APR-5,Santa Martha,15.21
+2022-OCT-21,Santa Martha,6.69
+2022-NOV-14,FarMed,7.71
+2022-OCT-16,SuFarmacia,12.17
+2022-MAY-23,Pharmacys,19.73
+2022-MAY-28,Pharmacys,2.26
+2022-NOV-16,SuFarmacia,12.88
+2022-SEP-22,Ecu-Vida,29.22
+2022-APR-1,Sana Sana,3.58
+2022-MAY-4,Farmacias Economicas,24.51
+2022-OCT-18,Santa Martha,3.51
+2022-JUL-6,Cruz Azul,7.26
+2022-MAR-2,Cruz Azul,6.51
+2022-JUL-4,Fybeca,4.32
+2022-SEP-13,FarMed,18.87
+2022-JUL-7,FarMed,21.14
+2022-MAY-12,Fybeca,29.54
+2022-MAR-6,Botica Barcia,28.63
+2022-DEC-19,SuFarmacia,9.04
+2022-JUN-26,Botica Barcia,1.06
+2022-DEC-19,Genovesa,22.78
+2022-DEC-2,Ecu-Vida,13.02
+2022-MAY-10,FarMed,1.26
+2022-DEC-2,Cruz Azul,13.54
+2022-JUL-26,Cruz Azul,23.24
+2022-DEC-30,Ecu-Vida,11.18
+2022-SEP-20,Sana Sana,10.59
+2022-MAR-22,SuFarmacia,13.75
+2022-JUL-19,Genovesa,18.72
+2022-OCT-23,Santa Martha,6.02
+2022-JUN-4,Santa Martha,25.31
+2022-NOV-9,Medicity,21.27
+2022-NOV-16,Fybeca,10.97
+2022-NOV-22,Santa Martha,3.17
+2022-APR-23,Farmacias Comunitarias,25.33
+2022-MAY-29,Santa Martha,22.35
+2022-MAR-21,Santa Martha,27.31
+2022-DEC-12,Farmacias Economicas,21.95
+2022-MAR-30,SuFarmacia,27.81
+2022-JUN-1,FarMed,24.7
+2022-JUN-3,SuFarmacia,19.75
+2022-SEP-16,Sana Sana,25.92
+2022-JUN-1,Santa Martha,2.91
+2022-OCT-7,Botica Barcia,2.32
+2022-DEC-6,Pharmacys,23.01
+2022-DEC-16,Pharmacys,14.33
+2022-JUL-3,Fybeca,21.57
+2022-DEC-9,Pharmacys,18.78
+2022-APR-21,Genovesa,27.48
+2022-MAY-7,Genovesa,28.69
+2022-OCT-6,Pharmacys,14.17
+2022-SEP-7,Farmacias Comunitarias,3.95
+2022-NOV-4,Botica Barcia,26.63
+2022-OCT-5,Botica Barcia,12.52
+2022-MAR-29,Genovesa,4.82
+2022-OCT-14,Farmacias Comunitarias,5.79
+2022-NOV-2,Santa Martha,18.73
+2022-MAR-11,Santa Martha,21.79
+2022-DEC-26,Cruz Azul,7.37
+2022-JUL-9,FarMed,10.16
+2022-JUN-7,Farmacias Economicas,7.0
+2022-NOV-5,SuFarmacia,22.23
+2022-APR-28,Genovesa,3.87
+2022-MAY-25,Farmacias Economicas,11.0
+2022-JUN-20,SuFarmacia,8.35
+2022-JUL-11,Cruz Azul,27.48
+2022-APR-9,Cruz Azul,18.28
+2022-MAR-9,Cruz Azul,20.56
+2022-OCT-3,Santa Martha,6.36
+2022-MAY-14,Ecu-Vida,28.79
+2022-MAY-12,SuFarmacia,8.13
+2022-MAY-9,Botica Barcia,17.28
+2022-JUL-6,Genovesa,23.99
+2022-NOV-21,Sana Sana,14.78
+2022-JUL-19,Farmacias Economicas,21.45
+2022-MAR-14,FarMed,16.66
+2022-APR-12,Sana Sana,20.56
+2022-NOV-25,Farmacias Economicas,3.07
+2022-DEC-4,Sana Sana,5.39
+2022-APR-10,FarMed,25.94
+2022-MAR-24,Cruz Azul,22.87
+2022-SEP-23,Sana Sana,18.31
+2022-MAR-3,Genovesa,17.46
+2022-DEC-7,Santa Martha,9.95

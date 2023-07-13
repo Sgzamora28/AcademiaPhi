@@ -1,0 +1,6 @@
+Ciudad de Partida|Ciudad,Distancia|Ciudad,Distancia|...|Ciudad,Distancia
+Pedernales|Ambato,318|Azogues,555|Portoviejo,180
+Ambato|Azogues,280|Babahoyo,212|Pedernales,318
+Azogues| Pedernales,555|Babahoyo,125
+Babahoyo|Ambato,250
+Guayaquil|Machala,182|Portoviejo,195|Cuenca,196

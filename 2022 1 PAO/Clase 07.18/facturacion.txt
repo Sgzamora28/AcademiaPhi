@@ -1,0 +1,20 @@
+Facturacion
+Coca Codo Sinclair
+Quito: 4369 megavatiosXhora consumidos
+Total a pagar por el consumo: $283985
+
+Guayaquil: 938 megavatiosXhora consumidos
+Total a pagar por el consumo: $78792
+
+********************
+Sopladora
+Guayaquil: 1051 megavatiosXhora consumidos
+Total a pagar por el consumo: $57805
+
+Quito: 1419 megavatiosXhora consumidos
+Total a pagar por el consumo: $112101
+
+Loja: 154 megavatiosXhora consumidos
+Total a pagar por el consumo: $4928
+
+********************

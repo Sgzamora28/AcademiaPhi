@@ -1,0 +1,7 @@
+id_ruta, id_chofer, fecha
+Guayaquil-Cuenca,SMSNADOPN,17-05-2018
+Guayaquil-Cuenca,EVNTAASFL,18-05-2018
+Guayaquil-Cuenca,AGBCCAPMP,18-05-2018
+Guayaquil-Daule,EVNTAASFL,17-05-2018
+Guayaquil-Daule,AAQSPTTGL,18-05-2018
+Guayaquil-Esmeraldas,SMSNADOPN,28-05-2018

@@ -1,0 +1,92 @@
+Academico; p. 2, 3, 4
+Algebra; p. 1, 4
+Amigo; p. 4
+Amor; p. 3
+Analisis; p. 1
+Aprendizaje; p. 2
+Aprobado; p. 3, 4
+Arbol; p. 2, 4
+Artes; p. 2
+Ayudante; p. 1
+Azucena; p. 2, 3, 4
+Bazo; p. 3, 4
+Bebe; p. 3
+Buho; p. 3
+Calculo; p. 1
+Camara; p. 2, 3, 3, 4
+Camarada; p. 2, 4
+Cancer; p. 2
+Cancion; p. 4
+Casa; p. 2, 4
+Celular; p. 3
+Cielo; p. 3
+Ciencias; p. 2
+Complementaria; p. 1
+Complicado; p. 3
+Consola; p. 4
+Corazon; p. 3
+Covid; p. 2, 4
+Creditos; p. 1, 3
+Debate; p. 4
+Depresion; p. 3
+Difil; p. 3
+Disenio; p. 2
+Economia; p. 1
+Escuela; p. 2
+Espol; p. 1
+Examen; p. 2
+Facultad; p. 1, 4
+Fisica; p. 1
+Flor; p. 1, 4
+Fotografia; p. 3
+Ganador; p. 1, 4
+Garganta; p. 2
+Gargara; p. 2
+Gato; p. 2
+Herpes; p. 2
+Hiperglucemia; p. 2
+Humanistica; p. 2
+Invitacion; p. 1
+Java; p. 3
+Kyra; p. 1, 2
+Lirio; p. 4
+Locura; p. 1
+Luna; p. 4
+Maritima; p. 2
+Matematicas; p. 1, 2
+Mecanica; p. 2
+Nena; p. 1, 2
+Objetos; p. 1
+Oso; p. 2
+Pagina; p. 3
+Pajaro; p. 4
+Panda; p. 2
+Parangaricutirmicuaro; p. 2, 3, 4
+Pardo; p. 2
+Periodo; p. 2
+Perro; p. 4
+Persona; p. 4
+Polar; p. 2
+Problemas; p. 1
+Programacion; p. 4
+Programador; p. 3
+Python; p. 3
+Qeso; p. 2
+Querer; p. 2
+Raro; p. 2
+Raton; p. 2
+Repeticion; p. 1, 4
+Reproductor; p. 4
+Resolucion; p. 1
+Roca; p. 4
+Tetera; p. 2
+Tierra; p. 2
+Tristeza; p. 3
+Universidad; p. 1
+Vaso; p. 3
+Vida; p. 2
+Viruela; p. 2
+Volcan; p. 4
+Walter; p. 2
+Zamora; p. 2
+Zeno; p. 2

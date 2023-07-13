@@ -1,0 +1,12 @@
+INFORME DE LABORATORIO 
+**********************
+INR 1.25 segundos
+BGT 180.12 mmol/dL
+HGB 13 g/dL **
+ESR 3.2 mm/hora
+RBC 4000024.2 cel/uL
+TA 1.5 ng/dL
+WBC 123233.23 cel/uL.
+
+Medico: Juan Pozo
+Recomendacion: **Su nivel de hemoglobina es bajo, se recomienda ir al hematologo.

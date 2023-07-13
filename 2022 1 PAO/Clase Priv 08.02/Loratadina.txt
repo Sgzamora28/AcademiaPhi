@@ -1,0 +1,5 @@
+Habitación   Paciente
+401          Juan Andrade
+119          Kyra Franco
+
+Total de pastillas de Loratadina requeridas: 9

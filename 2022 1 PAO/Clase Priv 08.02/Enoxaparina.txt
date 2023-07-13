@@ -1,0 +1,5 @@
+Habitación   Paciente
+401          Juan Andrade
+305          Ana Mora
+
+Total de pastillas de Enoxaparina requeridas: 4

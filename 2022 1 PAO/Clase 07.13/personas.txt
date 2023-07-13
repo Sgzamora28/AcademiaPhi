@@ -1,0 +1,3 @@
+id,edad,instruccion,detencion1,detencion2,..
+1303408189,28,tercer nivel,robo,vandalismo
+0706017522,19,secundaria,terrorismo,robo,asesinato
